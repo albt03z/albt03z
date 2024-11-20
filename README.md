@@ -37,7 +37,7 @@ Acerca de mi:
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub pages](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
     
 <br>
 

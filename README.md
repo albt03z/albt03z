@@ -2,5 +2,5 @@
 <!---->
 Acerca de mi:
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=32&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software;++;Con+experiencia+práctica;Fullstack+developer,;Analista+de+datos,;Comprometido+con+la+mejora+continua,;Me+encanta+desarrollar+soluciones+innovadoras<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=32&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software;++;Con+experiencia+práctica;Fullstack+developer,;Analista+de+datos,;Comprometido+con+la+mejora,;Me+encanta+desarrollar+soluciones<3"></a>
 </p>

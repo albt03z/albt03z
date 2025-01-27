@@ -1,45 +1,47 @@
-<h1 align="center"><b>Hi , I'm Adalberto González Cuesta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!---->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=32&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software;++;Con+experiencia+práctica,;Fullstack+developer,;Analista+de+datos,;Comprometido+con+la+mejora,;Me+encanta+desarrollar+soluciones"></a>
-</p>
+# 👋 ¡Hola! Soy Adalberto González
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+Ingeniero de Software en formación, especializado en análisis de datos y desarrollo de soluciones tecnológicas innovadoras. Me apasiona la automatización de procesos y el análisis de datos para impulsar la toma de decisiones.
 
-<p align="center">
+## 🚀 Tecnologías y Herramientas
 
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-    ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-    ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<br>   
-    
-- **Front-End Development**:
+### Bases de Datos
+![Microsoft SQL](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-    ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-    ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-    ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+### Frameworks y Herramientas
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-<br>
+### Visualización y Cloud
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-- **Cloud Hosting**:
+## 💼 Experiencia Destacada
 
-    ![GitHub pages](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    
-<br>
+### Tuya S.A | Practicante Universitario de Ingeniería de Software
+*(Enero 2023 - Enero 2024)*
 
-- **Softwares and Tools**:
+- 📊 Desarrollo de matriz de datos centralizada mejorando accesibilidad en 40%
+- 📈 Creación de dashboards interactivos en Power BI para KPIs financieros
+- 🤖 Automatización de reportes financieros reduciendo tiempos de 8 a 3 horas
+- ✅ Optimización de procesos de calidad de datos con reducción de errores del 40%
 
-    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## 📚 Educación
+
+- 🎓 Ingeniería de Software - Tecnológico de Antioquia *(2019 - 2024)*
+- 📘 Técnico en Electrónica - SENA *(2016 - 2018)*
+
+## 📫 Contacto
+
+- 📧 Email: adalbertogc17@gmail.com
+- 📱 LinkedIn: [Adalberto González](https://www.linkedin.com/in/adalberto-gonzález)
+- 🌐 GitHub: [@albt03z](https://github.com/albt03z)
+
+---
+⭐️ From [Adalberto González](https://github.com/albt03z)
